@@ -13,16 +13,16 @@ let timer = 0
 let increment = 1
 
 function preload(){
-  frame1 = loadImage("frame1.png") 
-  frame2 = loadImage("frame2.png") 
-  frame3 = loadImage("frame3.png") 
-  frame4 = loadImage("frame4.png") 
-  frame5 = loadImage("frame5.png") 
-  frame6 = loadImage("frame6.png") 
-  frame7 = loadImage("frame7.png") 
-  frame8 = loadImage("frame8.png") 
-  frame9 = loadImage("frame9.png") 
-  frame10 = loadImage("frame10.png") 
+  frame1 = loadImage("frame1.jpg") 
+  frame2 = loadImage("frame2.jpg") 
+  frame3 = loadImage("frame3.jpg") 
+  frame4 = loadImage("frame4.jpg") 
+  frame5 = loadImage("frame5.jpg") 
+  frame6 = loadImage("frame6.jpg") 
+  frame7 = loadImage("frame7.jpg") 
+  frame8 = loadImage("frame8.jpg") 
+  frame9 = loadImage("frame9.jpg") 
+  frame10 = loadImage("frame10.jpg") 
 
 }
   
